@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -a $PWD $cd .. /boot
